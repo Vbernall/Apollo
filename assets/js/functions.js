@@ -57,6 +57,8 @@ $(document).ready(function() {
 	  });
 
 
+	//3. map
+
 	  var map = L.map('map').setView([45.500572, 286.4328], 13);
 	  
 	  
